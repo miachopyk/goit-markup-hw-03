@@ -289,11 +289,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 .portfolio-filter {
     display: flex;
-    margin: 0;
-    justify-content: center;
-}
-.portfolio-element {
+    margin-top: 0;
     margin-bottom: 50px;
+    justify-content: center;
 }
 .portfolio-element:not(:last-child) {
     margin-right: 8px;
